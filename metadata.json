@@ -1,0 +1,6 @@
+{
+  "name": "Imperium Astrolabe III: The Grand Conjunction",
+  "description": "Enes Öztürk imzalı çok karakterli epik siber-barok 3D aksiyon deneyimi, gerçek zamanlı karakter geçişli kombo sistemi ve kozmik saat mekanizması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
